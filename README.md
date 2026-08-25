@@ -35,7 +35,7 @@ O painel foi projetado para oferecer navegação intuitiva por meio de filtros d
 
 ---
 
-## 🚀 Como Replicar ou Explorar
+## 🚀 Como Explorar
 1. Acesse o [link do Looker Studio](https://datastudio.google.com/s/lDiTKYWh1xU)
 2. Utilize o menu superior de filtros para segmentar por **UF** ou **Região**.
 3. Interaja com os mapas e tabelas para detalhar a análise por município ou empresa.
