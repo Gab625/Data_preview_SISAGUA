@@ -5,7 +5,7 @@
 ## 📌 Visão Geral
 Este projeto consiste em um dashboard interativo desenvolvido no **Looker Studio** para analisar a distribuição e cobertura do abastecimento de água no Brasil entre **2014 e 2024**, utilizando dados públicos do **SISAGUA / Ministério da Saúde**.
 
-🔗 **[Acesse o Dashboard Interativo Aqui] (https://datastudio.google.com/s/lDiTKYWh1xU**)
+🔗 **[Acesse o Dashboard Interativo Aqui](https://datastudio.google.com/s/lDiTKYWh1xU**)
 
 ---
 
@@ -36,7 +36,7 @@ O painel foi projetado para oferecer navegação intuitiva por meio de filtros d
 ---
 
 ## 🚀 Como Replicar ou Explorar
-1. Acesse o [link do Looker Studio] (https://datastudio.google.com/s/lDiTKYWh1xU)
+1. Acesse o [link do Looker Studio](https://datastudio.google.com/s/lDiTKYWh1xU)
 2. Utilize o menu superior de filtros para segmentar por **UF** ou **Região**.
 3. Interaja com os mapas e tabelas para detalhar a análise por município ou empresa.
 
@@ -44,5 +44,5 @@ O painel foi projetado para oferecer navegação intuitiva por meio de filtros d
 
 ## ✉️ Contato
 Desenvolvido por **Gabriel Prado Brandão**  
-- [LinkedIn] (https://www.linkedin.com/in/gabriel-prado-brand%C3%A3o-816a1a430/)
-- [GitHub] (https://github.com/Gab625)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-prado-brand%C3%A3o-816a1a430/)
+- [GitHub](https://github.com/Gab625)
