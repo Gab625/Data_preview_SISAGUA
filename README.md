@@ -5,7 +5,7 @@
 ## 📌 Visão Geral
 Este projeto consiste em um dashboard interativo desenvolvido no **Looker Studio** para analisar a distribuição e cobertura do abastecimento de água no Brasil entre **2014 e 2024**, utilizando dados públicos do **SISAGUA / Ministério da Saúde**.
 
-🔗 **[Acesse o Dashboard Interativo Aqui](https://datastudio.google.com/s/lDiTKYWh1xU**)
+🔗 **[Acesse o Dashboard Interativo Aqui](https://datastudio.google.com/s/lDiTKYWh1xU)**
 
 ---
 
